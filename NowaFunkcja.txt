@@ -1,0 +1,4 @@
+Tworzenie Gałęzi:
+
+Utwórz nową gałąź o nazwie "rozwoj" (ang. development).
+Przejdź do tej gałęzi i dodaj nowy plik o nazwie "NowaFunkcja.txt" z jakimś tekstem.
